@@ -7,6 +7,8 @@ El número es multiplo de 5, imprime "buzz".
 El número es multiplo de ambos, imprime "fizzbuzz".
 
       Ejemplo de salida:
+      
+  INICIA EL PROGRAMA
       1
       2
       fizz
@@ -15,6 +17,10 @@ El número es multiplo de ambos, imprime "fizzbuzz".
       [...]
       14
       fizzbuzz
+      [...]
+      100
+  ACABA EL PROGRAMA
+      
 '''
 
 i = 1
